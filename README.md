@@ -31,9 +31,9 @@ This project improved my understanding of transforming raw data into **actionabl
 
 ## Dashboard
 
-![Sales Performance](Sales%Performance.png)
-![Geography Performance](Geography%Sales.png)
-![Product Performance](Product%Sales.png)
+![Sales Performance](Sales%20Performance.png)
+![Geography Performance](Geography%20Sales.png)
+![Product Performance](Product%20Sales.png)
 
 
 
